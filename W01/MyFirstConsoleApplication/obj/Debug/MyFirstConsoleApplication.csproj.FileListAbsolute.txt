@@ -1,0 +1,7 @@
+C:\code\BYU-I\2024-Fall\.NET\W01\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe.config
+C:\code\BYU-I\2024-Fall\.NET\W01\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe
+C:\code\BYU-I\2024-Fall\.NET\W01\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.pdb
+C:\code\BYU-I\2024-Fall\.NET\W01\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.AssemblyReference.cache
+C:\code\BYU-I\2024-Fall\.NET\W01\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\code\BYU-I\2024-Fall\.NET\W01\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.exe
+C:\code\BYU-I\2024-Fall\.NET\W01\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.pdb
