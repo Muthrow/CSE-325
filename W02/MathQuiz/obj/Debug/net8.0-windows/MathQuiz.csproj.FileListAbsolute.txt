@@ -1,0 +1,17 @@
+C:\code\BYU-I\2024-Fall\.NET\W02\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.exe
+C:\code\BYU-I\2024-Fall\.NET\W02\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.deps.json
+C:\code\BYU-I\2024-Fall\.NET\W02\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.runtimeconfig.json
+C:\code\BYU-I\2024-Fall\.NET\W02\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.dll
+C:\code\BYU-I\2024-Fall\.NET\W02\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.pdb
+C:\code\BYU-I\2024-Fall\.NET\W02\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.Form1.resources
+C:\code\BYU-I\2024-Fall\.NET\W02\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.csproj.GenerateResource.cache
+C:\code\BYU-I\2024-Fall\.NET\W02\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\BYU-I\2024-Fall\.NET\W02\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.AssemblyInfoInputs.cache
+C:\code\BYU-I\2024-Fall\.NET\W02\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.AssemblyInfo.cs
+C:\code\BYU-I\2024-Fall\.NET\W02\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.csproj.CoreCompileInputs.cache
+C:\code\BYU-I\2024-Fall\.NET\W02\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.sourcelink.json
+C:\code\BYU-I\2024-Fall\.NET\W02\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.dll
+C:\code\BYU-I\2024-Fall\.NET\W02\MathQuiz\obj\Debug\net8.0-windows\refint\MathQuiz.dll
+C:\code\BYU-I\2024-Fall\.NET\W02\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.pdb
+C:\code\BYU-I\2024-Fall\.NET\W02\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.genruntimeconfig.cache
+C:\code\BYU-I\2024-Fall\.NET\W02\MathQuiz\obj\Debug\net8.0-windows\ref\MathQuiz.dll
